@@ -61,5 +61,5 @@ Dataset yang digunakan mengacu pada data kesehatan dengan beberapa parameter uta
 
 ### Clone Repository
 ```bash
-git clone https://github.com/username/diabetes-ml-project.git
+git clone [https://github.com/Askaragumelar/diabetes-ml-project.git]
 cd diabetes-ml-project
